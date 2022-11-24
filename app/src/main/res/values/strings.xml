@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Happy Birthday Kotlin</string>
+    <string name="hola_babe_string">Hola babe</string>
+    <string name="from_haru_text">From Haru</string>
+</resources>
